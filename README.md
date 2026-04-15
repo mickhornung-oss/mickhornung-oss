@@ -9,10 +9,24 @@ Ich verbinde tiefe Business-Erfahrung mit moderner Tech-Umsetzung. Nach über 16
 - Machine-Learning-Projekte für Segmentierung, Churn und Optimierung
 - Lokale KI-Tools, Desktop-Apps und produktnahe Python-Lösungen
 
+## 💡 Lernphilosophie
+
+> *Ich lerne am liebsten, indem ich Dinge baue, teste und verbessere.* 🚀
+
+Praktische Erfahrung + kontinuierliche Optimierung = Fundament für nachhaltige Lösungen. Jedes Projekt ist eine Gelegenheit, neue Technologien zu verstehen und bewährte Praktiken in der Praxis umzusetzen.
+
 ## Fokusbereiche
 - **Data Analytics:** SQL, Python, pandas, scikit-learn, Power BI
 - **Software Development:** FastAPI, PySide6, HTMX, SQLAlchemy
 - **Business Impact:** Prozessoptimierung, Skalierung, datenbasierte Entscheidungen
+
+## 📈 Bewährte Erfolge
+
+- **79.000+ Datensätze** analysiert und in actionable Insights umgewandelt
+- **Churn-Vorhersage-Modelle** mit 80%+ Accuracy für Marketing-Optimierung
+- **Custom GUI-Anwendungen** für lokale KI-Integration mit Python
+- **Musik-Generierungs-Engine** mit postgresql-Backend und FastAPI-API
+- **16+ Jahre E-Commerce:** Skalierung von Prozessen, Automatisierung, Datengesteuerte Entscheidungen
 
 ## Ausgewählte Projekte
 - **[Abschluss ML](./Abschluss%20ML)** – ML-Projekt zur Identifizierung von Deal-Jägern, Cross-Selling-Potenzial und Churn-Risiken
@@ -49,8 +63,19 @@ Ich bin immer interessiert an:
 
 **→ [Kontaktiere mich gerne!](#kontakt)**
 
-## Kontakt
-- **LinkedIn:** https://www.linkedin.com/in/michael-hornung-5135332b9
-- **E-Mail:** mick.hornung@googlemail.com
+## 📞 Kontakt & Connect
 
-> Ich lerne am liebsten, indem ich Dinge baue, teste und verbessere.
+- **💼 LinkedIn:** https://www.linkedin.com/in/michael-hornung-5135332b9
+- **📧 E-Mail:** [mick.hornung@googlemail.com](mailto:mick.hornung@googlemail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://img.shields.io/badge/Total%20Repos-10+-blue?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages-Python%2C%20SQL%2C%20JavaScript-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=flat-square)
+
+---
+
+**Lass mich wissen, wenn du interessante Projekte hast oder einfach nur quatschen möchtest!** 🎯
