@@ -37,6 +37,18 @@ Ich verbinde tiefe Business-Erfahrung mit moderner Tech-Umsetzung. Nach über 16
 | **Videogames** | Video-Games-Marktstudie | Python, pandas |
 | **mealmate** | Essensplanung und Workflow-Automatisierung | Python |
 
+## 🤝 Zusammenarbeit
+
+🔓 **Offen für Collaboration und Opportunities!**
+
+Ich bin immer interessiert an:
+- 📊 Datenanalyse-Projekten und BI-Lösungen
+- 🤖 Machine-Learning-Anwendungen
+- 💻 Python-Backend-Entwicklung
+- 🔗 Cross-funktionalen Herausforderungen
+
+**→ [Kontaktiere mich gerne!](#kontakt)**
+
 ## Kontakt
 - **LinkedIn:** https://www.linkedin.com/in/michael-hornung-5135332b9
 - **E-Mail:** mick.hornung@googlemail.com
