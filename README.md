@@ -1,38 +1,44 @@
-# Hi, ich bin Michael Hornung 👋
+﻿# Hi, ich bin Michael Hornung 👋
 
 **Data Analyst (E-Commerce & Operations) | Python Developer | 16+ Jahre Skalierung & Prozessanalyse**
 
-Ich bin ein "gefährlicher Hybrid" aus tiefer Business-Erfahrung und moderner Tech-Expertise. Nach über 16 Jahren bei **Petit Bateau**, in denen ich den deutschen E-Commerce von 5 auf 4.000 Bestellungen pro Tag mit skaliert habe, löse ich heute komplexe Geschäftsprobleme mit Daten und Code.
+Ich verbinde tiefe Business-Erfahrung mit moderner Tech-Umsetzung. Nach über 16 Jahren im E-Commerce- und Operations-Umfeld entwickle ich heute datengetriebene Lösungen mit Python, SQL, Power BI und Machine Learning.
 
----
+## Was du hier findest
+- Data-Analytics- und BI-Projekte mit klarem Business-Bezug
+- Machine-Learning-Projekte für Segmentierung, Churn und Optimierung
+- Lokale KI-Tools, Desktop-Apps und produktnahe Python-Lösungen
 
-### 🚀 Was ich mache
-- **Data Analytics:** SQL, Python (pandas, scikit-learn), Power BI & Machine Learning.
-- **Software Development:** Lokale KI-Tools, Desktop-Apps und Web-Lösungen mit FastAPI, PySide6 und HTMX.
-- **Business Impact:** Prozessoptimierung basierend auf 16 Jahren Real-World E-Commerce Erfahrung.
+## Fokusbereiche
+- **Data Analytics:** SQL, Python, pandas, scikit-learn, Power BI
+- **Software Development:** FastAPI, PySide6, HTMX, SQLAlchemy
+- **Business Impact:** Prozessoptimierung, Skalierung, datenbasierte Entscheidungen
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL, JavaScript, TypeScript, HTML/CSS
-- **Frameworks:** FastAPI, PySide6, SQLAlchemy, HTMX, Jinja2
-- **Data Science:** pandas, scikit-learn, matplotlib, Power BI
-- **Tools:** Git, Docker, PostgreSQL, SQLite, VS Code Extension API, ComfyUI
+## Ausgewählte Projekte
+- **[Abschluss ML](./Abschluss%20ML)** – ML-Projekt zur Identifizierung von Deal-Jägern, Cross-Selling-Potenzial und Churn-Risiken
+- **[Austin](./Austin)** – End-to-End-Datenanalyse von 79.000+ Tierheim-Datensätzen
+- **[mealmate](./mealmate)** – Python-Projekt für Essensplanung und Workflow-Automatisierung
+- **[Abschlussprojekt SQL](./Abschlussprojekt%20SQL)** – Datenbank-Design und SQL-Analysen
 
----
+## Tech Stack
+**Languages:** Python, SQL, JavaScript, TypeScript, HTML/CSS  
+**Frameworks:** FastAPI, PySide6, SQLAlchemy, HTMX, Jinja2  
+**Data:** pandas, scikit-learn, matplotlib, Power BI  
+**Tools:** Git, Docker, PostgreSQL, SQLite, VS Code Extension API, ComfyUI
 
-### 📂 Top Projekte
+## Alle Projekte
+| Projekt | Beschreibung | Tech |
+|---------|-------------|------|
+| **Abschluss ML** | ML-Marketing-Campaign-Analyse (Churn, Deal-Jäger, Cross-Sell) | Python, scikit-learn, Jupyter |
+| **Abschlussprojekt SQL** | SQL-Datenbankprojekt und Analysen | SQL, PostgreSQL |
+| **Austin** | Animal-Shelter-Datenanalyse (79K+ Datensätze) | Python, pandas |
+| **Bike Sales** | Verkaufsanalyse und Trends | Python, pandas |
+| **Spotify** | Music-Streaming-Datenanalyse | Python, pandas, ML |
+| **Videogames** | Video-Games-Marktstudie | Python, pandas |
+| **mealmate** | Essensplanung und Workflow-Automatisierung | Python |
 
-| Projekt | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **[Local Image AI](https://github.com/mickhornung-oss/local-image-ai)** | Python, FastAPI, ComfyUI | Lokale Text- & Bild-KI Suite mit Identity-Transfer. |
-| **[Code KI V6](https://github.com/mickhornung-oss/code-ki-v6)** | Python, TypeScript, VS Code | KI-Extension mit risikogesteuertem Agentenmodus. |
-| **[MinAn](https://github.com/mickhornung-oss/minan-csv-analyse)** | Python, PySide6, pandas | Portables Tool zur CSV-Schnellanalyse (150+ Tests). |
-| **[Micks Musikkiste](https://github.com/mickhornung-oss/micks-musikkiste)** | Python, FastAPI, PostgreSQL | AI-Musikstudio für Techno & Hip-Hop. |
+## Kontakt
+- **LinkedIn:** https://www.linkedin.com/in/michael-hornung-5135332b9
+- **E-Mail:** mick.hornung@googlemail.com
 
----
-
-### 📫 Kontakt & Links
-- **LinkedIn:** [linkedin.com/in/michael-hornung-5135332b9](https://www.linkedin.com/in/michael-hornung-5135332b9)
-- **E-Mail:** [mick.hornung@googlemail.com](mailto:mick.hornung@googlemail.com)
-- **Portfolio:** Schau dir meine Repos an – ich lerne durch "Machen und Kaputtmachen".
-
-> "Andere gucken Fernsehen, ich sitze vor meinem PC und baue Lösungen."
+> Ich lerne am liebsten, indem ich Dinge baue, teste und verbessere.
