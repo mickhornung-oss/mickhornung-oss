@@ -1,43 +1,30 @@
-﻿# Michael Hornung
+# Michael Hornung
 
-**Python Backend Developer & Analytics Engineer — 16+ years E-Commerce & Operations**
+Data-focused Python developer with an operations background.
 
-Scaled order processing from 5 to 4,000 orders/day. Now building the software and analytics tools I used to request from developers.
+## Core Stack
 
-**Open to:** Analytics Engineer · Junior Backend (Python) · Technical Product Manager roles
+```text
+Python, SQL, FastAPI, PySide6, SQLAlchemy, Docker, GitHub Actions
+```
 
----
+## Selected Projects
 
-## Projects
-
-| Project | What it is | Stack | CI |
+| Project | What it does | Stack | CI |
 |---|---|---|---|
-| [micks-musikkiste](https://github.com/mickhornung-oss/micks-musikkiste) | AI music studio — FastAPI, async PostgreSQL, queue worker, Docker | FastAPI · SQLAlchemy · PostgreSQL | ![CI](https://github.com/mickhornung-oss/micks-musikkiste/actions/workflows/python-tests.yml/badge.svg) |
-| [mealmate](https://github.com/mickhornung-oss/mealmate) | Recipe app — JWT auth, HTMX, Alembic migrations, PDF export, Render deploy | FastAPI · SQLAlchemy 2.0 · HTMX | ![CI](https://github.com/mickhornung-oss/mealmate/actions/workflows/python-tests.yml/badge.svg) |
-| [code-ki-v6](https://github.com/mickhornung-oss/code-ki-v6) | Local VS Code AI assistant — risk-controlled agent mode, workspace guardrails | FastAPI · VS Code Extension API | ![CI](https://github.com/mickhornung-oss/code-ki-v6/actions/workflows/python-tests.yml/badge.svg) |
-| [minan-csv-analyse](https://github.com/mickhornung-oss/minan-csv-analyse) | Portable CSV analysis tool — 155 tests, GUI, HTML report export | PySide6 · pandas · PyInstaller | ![CI](https://github.com/mickhornung-oss/minan-csv-analyse/actions/workflows/python-tests.yml/badge.svg) |
-| [local-image-ai](https://github.com/mickhornung-oss/local-image-ai) | Text + image AI desktop app — chat persistence, identity transfer, ComfyUI | Python · SQLite · ComfyUI | — |
-| [austin-animal-center-analyse](https://github.com/mickhornung-oss/austin-animal-center-analyse) | 79,000+ shelter records → star schema → Power BI dashboard | Power BI · Star Schema | — |
-| [ml-marketing-campaign](https://github.com/mickhornung-oss/ml-marketing-campaign) | Churn prediction, deal-seeker detection, cross-sell analysis | scikit-learn · pandas | — |
-| [credit-risk-sql](https://github.com/mickhornung-oss/credit-risk-sql) | Credit risk classification and interest rate analysis via SQL | SQL (MySQL 5.7+) | — |
+| [micks-musikkiste](https://github.com/mickhornung-oss/micks-musikkiste) | FastAPI app for prompt-based music generation workflows | FastAPI, PostgreSQL, Docker | [![CI](https://github.com/mickhornung-oss/micks-musikkiste/actions/workflows/python-tests.yml/badge.svg)](https://github.com/mickhornung-oss/micks-musikkiste/actions/workflows/python-tests.yml) |
+| [mealmate](https://github.com/mickhornung-oss/mealmate) | Production-style recipe platform with auth, admin import, and PDF export | FastAPI, HTMX, SQLAlchemy, Docker | [![CI](https://github.com/mickhornung-oss/mealmate/actions/workflows/python-tests.yml/badge.svg)](https://github.com/mickhornung-oss/mealmate/actions/workflows/python-tests.yml) |
+| [minan-csv-analyse](https://github.com/mickhornung-oss/minan-csv-analyse) | Desktop CSV analysis tool with profile, quality checks, and report export | PySide6, pandas, matplotlib | [![CI](https://github.com/mickhornung-oss/minan-csv-analyse/actions/workflows/python-tests.yml/badge.svg)](https://github.com/mickhornung-oss/minan-csv-analyse/actions/workflows/python-tests.yml) |
+| [code-ki-v6](https://github.com/mickhornung-oss/code-ki-v6) | Local coding assistant extension with multiple run modes | Python, VS Code Extension | [![CI](https://github.com/mickhornung-oss/code-ki-v6/actions/workflows/python-tests.yml/badge.svg)](https://github.com/mickhornung-oss/code-ki-v6/actions/workflows/python-tests.yml) |
+| [local-image-ai](https://github.com/mickhornung-oss/local-image-ai) | Local image generation GUI for ComfyUI pipelines | Python, PySide6 | [![CI](https://github.com/mickhornung-oss/local-image-ai/actions/workflows/python-tests.yml/badge.svg)](https://github.com/mickhornung-oss/local-image-ai/actions/workflows/python-tests.yml) |
 
----
+## Open To
 
-## Tech Stack
+- Junior/Mid Python Developer roles
+- Backend roles with FastAPI/SQL focus
+- Data Analyst or Analytics Engineer roles with Python + SQL
 
-```
-Backend:    FastAPI · SQLAlchemy 2.0 · Alembic · Pydantic · asyncpg
-Data:       pandas · scikit-learn · matplotlib · Power BI
-Frontend:   HTMX · Jinja2 · HTML/CSS
-Infra:      Docker · PostgreSQL · SQLite · GitHub Actions
-Other:      VS Code Extension API · PySide6 · ComfyUI
-```
+## Contact
 
----
-
-## Background
-
-16 years running E-Commerce operations — logistics, process design, system integration, scaling.
-Transitioned into software development to build the tools the business always needed.
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/michael-hornung-5135332b9) · [mick.hornung@googlemail.com](mailto:mick.hornung@googlemail.com)
+- LinkedIn: https://www.linkedin.com/in/michael-hornung-5135332b9
+- Email: mailto:mick.hornung@googlemail.com
