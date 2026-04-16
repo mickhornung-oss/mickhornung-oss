@@ -1,81 +1,43 @@
-﻿# Hi, ich bin Michael Hornung 👋
+﻿# Michael Hornung
 
-**Data Analyst (E-Commerce & Operations) | Python Developer | 16+ Jahre Skalierung & Prozessanalyse**
+**Python Backend Developer & Analytics Engineer — 16+ years E-Commerce & Operations**
 
-Ich verbinde tiefe Business-Erfahrung mit moderner Tech-Umsetzung. Nach über 16 Jahren im E-Commerce- und Operations-Umfeld entwickle ich heute datengetriebene Lösungen mit Python, SQL, Power BI und Machine Learning.
+Scaled order processing from 5 to 4,000 orders/day. Now building the software and analytics tools I used to request from developers.
 
-## Was du hier findest
-- Data-Analytics- und BI-Projekte mit klarem Business-Bezug
-- Machine-Learning-Projekte für Segmentierung, Churn und Optimierung
-- Lokale KI-Tools, Desktop-Apps und produktnahe Python-Lösungen
+**Open to:** Analytics Engineer · Junior Backend (Python) · Technical Product Manager roles
 
-## 💡 Lernphilosophie
+---
 
-> *Ich lerne am liebsten, indem ich Dinge baue, teste und verbessere.* 🚀
+## Projects
 
-Praktische Erfahrung + kontinuierliche Optimierung = Fundament für nachhaltige Lösungen. Jedes Projekt ist eine Gelegenheit, neue Technologien zu verstehen und bewährte Praktiken in der Praxis umzusetzen.
+| Project | What it is | Stack | CI |
+|---|---|---|---|
+| [micks-musikkiste](https://github.com/mickhornung-oss/micks-musikkiste) | AI music studio — FastAPI, async PostgreSQL, queue worker, Docker | FastAPI · SQLAlchemy · PostgreSQL | ![CI](https://github.com/mickhornung-oss/micks-musikkiste/actions/workflows/python-tests.yml/badge.svg) |
+| [mealmate](https://github.com/mickhornung-oss/mealmate) | Recipe app — JWT auth, HTMX, Alembic migrations, PDF export, Render deploy | FastAPI · SQLAlchemy 2.0 · HTMX | ![CI](https://github.com/mickhornung-oss/mealmate/actions/workflows/python-tests.yml/badge.svg) |
+| [code-ki-v6](https://github.com/mickhornung-oss/code-ki-v6) | Local VS Code AI assistant — risk-controlled agent mode, workspace guardrails | FastAPI · VS Code Extension API | ![CI](https://github.com/mickhornung-oss/code-ki-v6/actions/workflows/python-tests.yml/badge.svg) |
+| [minan-csv-analyse](https://github.com/mickhornung-oss/minan-csv-analyse) | Portable CSV analysis tool — 155 tests, GUI, HTML report export | PySide6 · pandas · PyInstaller | ![CI](https://github.com/mickhornung-oss/minan-csv-analyse/actions/workflows/python-tests.yml/badge.svg) |
+| [local-image-ai](https://github.com/mickhornung-oss/local-image-ai) | Text + image AI desktop app — chat persistence, identity transfer, ComfyUI | Python · SQLite · ComfyUI | — |
+| [austin-animal-center-analyse](https://github.com/mickhornung-oss/austin-animal-center-analyse) | 79,000+ shelter records → star schema → Power BI dashboard | Power BI · Star Schema | — |
+| [ml-marketing-campaign](https://github.com/mickhornung-oss/ml-marketing-campaign) | Churn prediction, deal-seeker detection, cross-sell analysis | scikit-learn · pandas | — |
+| [credit-risk-sql](https://github.com/mickhornung-oss/credit-risk-sql) | Credit risk classification and interest rate analysis via SQL | SQL (MySQL 5.7+) | — |
 
-## Fokusbereiche
-- **Data Analytics:** SQL, Python, pandas, scikit-learn, Power BI
-- **Software Development:** FastAPI, PySide6, HTMX, SQLAlchemy
-- **Business Impact:** Prozessoptimierung, Skalierung, datenbasierte Entscheidungen
-
-## 📈 Bewährte Erfolge
-
-- **79.000+ Datensätze** analysiert und in actionable Insights umgewandelt
-- **Churn-Vorhersage-Modelle** mit 80%+ Accuracy für Marketing-Optimierung
-- **Custom GUI-Anwendungen** für lokale KI-Integration mit Python
-- **Musik-Generierungs-Engine** mit postgresql-Backend und FastAPI-API
-- **16+ Jahre E-Commerce:** Skalierung von Prozessen, Automatisierung, Datengesteuerte Entscheidungen
-
-## Ausgewählte Projekte
-- **[Abschluss ML](./Abschluss%20ML)** – ML-Projekt zur Identifizierung von Deal-Jägern, Cross-Selling-Potenzial und Churn-Risiken
-- **[Austin](./Austin)** – End-to-End-Datenanalyse von 79.000+ Tierheim-Datensätzen
-- **[mealmate](./mealmate)** – Python-Projekt für Essensplanung und Workflow-Automatisierung
-- **[Abschlussprojekt SQL](./Abschlussprojekt%20SQL)** – Datenbank-Design und SQL-Analysen
+---
 
 ## Tech Stack
-**Languages:** Python, SQL, JavaScript, TypeScript, HTML/CSS  
-**Frameworks:** FastAPI, PySide6, SQLAlchemy, HTMX, Jinja2  
-**Data:** pandas, scikit-learn, matplotlib, Power BI  
-**Tools:** Git, Docker, PostgreSQL, SQLite, VS Code Extension API, ComfyUI
 
-## Alle Projekte
-| Projekt | Beschreibung | Tech |
-|---------|-------------|------|
-| **Abschluss ML** | ML-Marketing-Campaign-Analyse (Churn, Deal-Jäger, Cross-Sell) | Python, scikit-learn, Jupyter |
-| **Abschlussprojekt SQL** | SQL-Datenbankprojekt und Analysen | SQL, PostgreSQL |
-| **Austin** | Animal-Shelter-Datenanalyse (79K+ Datensätze) | Python, pandas |
-| **Bike Sales** | Verkaufsanalyse und Trends | Python, pandas |
-| **Spotify** | Music-Streaming-Datenanalyse | Python, pandas, ML |
-| **Videogames** | Video-Games-Marktstudie | Python, pandas |
-| **mealmate** | Essensplanung und Workflow-Automatisierung | Python |
-
-## 🤝 Zusammenarbeit
-
-🔓 **Offen für Collaboration und Opportunities!**
-
-Ich bin immer interessiert an:
-- 📊 Datenanalyse-Projekten und BI-Lösungen
-- 🤖 Machine-Learning-Anwendungen
-- 💻 Python-Backend-Entwicklung
-- 🔗 Cross-funktionalen Herausforderungen
-
-**→ [Kontaktiere mich gerne!](#kontakt)**
-
-## 📞 Kontakt & Connect
-
-- **💼 LinkedIn:** https://www.linkedin.com/in/michael-hornung-5135332b9
-- **📧 E-Mail:** [mick.hornung@googlemail.com](mailto:mick.hornung@googlemail.com)
+```
+Backend:    FastAPI · SQLAlchemy 2.0 · Alembic · Pydantic · asyncpg
+Data:       pandas · scikit-learn · matplotlib · Power BI
+Frontend:   HTMX · Jinja2 · HTML/CSS
+Infra:      Docker · PostgreSQL · SQLite · GitHub Actions
+Other:      VS Code Extension API · PySide6 · ComfyUI
+```
 
 ---
 
-### 📊 GitHub Stats
+## Background
 
-![GitHub Stats](https://img.shields.io/badge/Total%20Repos-10+-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/Languages-Python%2C%20SQL%2C%20JavaScript-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active%20Developer-brightgreen?style=flat-square)
+16 years running E-Commerce operations — logistics, process design, system integration, scaling.
+Transitioned into software development to build the tools the business always needed.
 
----
-
-**Lass mich wissen, wenn du interessante Projekte hast oder einfach nur quatschen möchtest!** 🎯
+**Contact:** [LinkedIn](https://www.linkedin.com/in/michael-hornung-5135332b9) · [mick.hornung@googlemail.com](mailto:mick.hornung@googlemail.com)
